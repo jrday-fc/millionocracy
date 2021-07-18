@@ -1,4 +1,4 @@
-FROM kkarczmarczyk/node-yarn
+FROM kkarczmarczyk/node-yarn:latest@sha256:ebaee68e82fec5e5924949b5c8700c6eb4b2ec9954269dc08fdb8ded9629542e
 
 # if you're in China, please comment above image and uncomment following image :)
 
